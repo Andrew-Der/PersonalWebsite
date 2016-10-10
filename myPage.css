@@ -1,0 +1,133 @@
+html, body {
+  background-color: #FFF; 
+  height: 100%;
+  margin-bottom: 0;
+/*    background:url(https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/10296092_633257873438955_2585122686532418094_o.jpg);
+*/
+}
+#main_container {
+
+  width: 100%;
+  margin: 0;
+  padding: 0;
+
+  height: 100%;
+  margin-bottom: 0;
+
+}
+
+/*trying to get the back main picture
+*/#home_page {
+/*  margin-right: 0px;
+  margin-left: 0px;*/ 
+/*  background-color: #000000;
+*/  width: 100%;
+  background:url(https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/10296092_633257873438955_2585122686532418094_o.jpg);
+/*  height: 600px;
+*/  margin-bottom: 0;
+background-size: cover;
+}
+
+#banner {
+     width: 100%;
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+     margin: 0;
+     padding: 0;
+     background-image:url(http://www.addcovers.com/covers/anubgendls898ni.jpg);
+     vertical-align: middle;
+}
+
+/*header on banner*/
+#name {
+  color: white;
+  text-align: center;
+  font-size: 5vw;
+}
+
+.ImageBorder {
+  border-width: 3px;
+  border-color: #428bca;
+}
+
+#bar {
+  width: 5%;
+  height: 10px;
+}
+
+/*center nav pills*/
+#navigation {
+  margin-top: 2%;
+  margin-bottom: 3%;
+}
+.centered-pills { text-align:center; }
+.centered-pills ul.nav-pills { display:inline-block; }
+.centered-pills li { display:inline; }
+.centered-pills a { float:left; }
+
+/*second header
+*/
+
+h2 { color: #111; font-family: 'Open Sans', sans-serif; font-size: 30px; font-weight: 300; line-height: 32px; margin: 0 0 72px; text-align: center; }
+
+#first {
+  margin-bottom: 0px;
+}
+
+#job_title {
+  margin-top: 0;
+}
+
+#job_description { 
+  color: #333333; 
+  font-family: "Helvetica Neue",Arial,sans-serif; 
+  font-size: 16px; 
+  font-weight: 300; 
+  line-height: 225%; 
+  margin-bottom: 15px; 
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+#abils {
+  width: 20%;
+  margin-top: 2%;
+  margin-left: 30%;
+  float: left;
+}
+#second_row_abils {
+  width: 20%;
+  margin-top: 2%;
+  margin-right: 30%;
+  float: left;
+}
+
+#personal_abils {
+  width: 40%;
+  margin-top: 2%;
+  margin-right: 30%;
+  margin-left: 30%;
+}
+
+#education {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+#edu_info {
+  line-height: 90%;
+}
+
+#quote {
+  margin-bottom: 2%;
+}
+
+#author {
+  margin-left: 65%;
+}
+
+#contacts {
+  text-align: center;
+  margin-top: 7%;
+}
