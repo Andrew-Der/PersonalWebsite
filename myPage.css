@@ -23,8 +23,8 @@ html, body {
 /*  background-color: #000000;
 */  width: 100%;
   background:url(https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/10296092_633257873438955_2585122686532418094_o.jpg);
-/*  height: 600px;
-*/  margin-bottom: 0;
+  height: 600px;
+  margin-bottom: 0;
 background-size: cover;
 }
 
