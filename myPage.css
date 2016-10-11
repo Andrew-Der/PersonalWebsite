@@ -21,11 +21,14 @@ html, body {
 /*  margin-right: 0px;
   margin-left: 0px;*/ 
 /*  background-color: #000000;
-*/  width: 100%;
-  background:url(https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/10296092_633257873438955_2585122686532418094_o.jpg);
-  height: 600px;
+*/ 
+  background:url('https://scontent.xx.fbcdn.net/v/t1.0-9/14680538_1042578375840234_8197365734048160846_n.jpg?oh=59110be3e97c01693b8d20c89fab25ed&oe=5867DE49');
+  height: 800px;
+  width: 100%;
   margin-bottom: 0;
-background-size: cover;
+  background-position: right;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 #banner {
